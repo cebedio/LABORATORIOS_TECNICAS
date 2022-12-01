@@ -1,0 +1,7 @@
+library ieee;
+use ieee.std_logic_1164.all; --En esta librería están la mayoría de los tipos de datos que usamos.
+
+
+--Primero se declara la entidad. Es decir puertos de entrada y salida. Seía como poner el bloque con las entrada y salidas
+ 
+ entity parte_A is    --El nombre de la entidad conviene que sea igual al archivo.

@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Celeste/OneDrive/CELESTE/TYDD 2/Lab_clasico/Lab_virtual/Lab3/celeste_cebedio/ejemplo.vhd
+source_file = 1, C:/Users/Celeste/OneDrive/CELESTE/TYDD 2/Lab_clasico/Lab_virtual/Lab3/celeste_cebedio/db/ejemplo.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = ejemplo
+instance = comp, \salida~output\, salida~output, ejemplo, 1
+instance = comp, \entrada~input\, entrada~input, ejemplo, 1

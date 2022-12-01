@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Celeste/OneDrive/CELESTE/TYDD 2/Lab_clasico/Lab_virtual/Lab3/celeste_cebedio/Parte_A/parte_A.vhd
+source_file = 1, C:/Users/Celeste/OneDrive/CELESTE/TYDD 2/Lab_clasico/Lab_virtual/Lab3/celeste_cebedio/Parte_A/Waveform_Altera.vwf
+source_file = 1, C:/Users/Celeste/OneDrive/CELESTE/TYDD 2/Lab_clasico/Lab_virtual/Lab3/celeste_cebedio/Parte_A/db/parte_A.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = parte_A
+instance = comp, \salida~output , salida~output, parte_A, 1
+instance = comp, \b~input , b~input, parte_A, 1
+instance = comp, \a~input , a~input, parte_A, 1
+instance = comp, \salida~0 , salida~0, parte_A, 1
